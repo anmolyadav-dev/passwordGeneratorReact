@@ -35,7 +35,7 @@ function App() {
   return (
     <>
       <div className="w-[100%] h-[100vh] flex justify-center items-center text-orange-500 ">
-        <div className="text-center w-full max-w-lg bg-gray-700 p-4 mx-auto">
+        <div className="text-center w-full max-w-lg bg-gray-700 p-4 mx-auto rounded-lg pb-6">
           <h1 className="uppercase text-1xl text-slate-100 p-4">
             password generator
           </h1>
